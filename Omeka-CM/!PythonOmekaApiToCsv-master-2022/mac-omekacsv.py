@@ -63,6 +63,12 @@ for resource in available_resources:
             page += 1
             time.sleep(2)
 
+    def expand(obj):
+        keys = obj.keys()
+        for k in keys:
+            if k in obj:
+                expandField(obj, k, v)
+
     # make initial API request; get max pages
     response, content = request()
     pages = int(math.ceil(float(response['omeka-total-results'])/50))
@@ -84,7 +90,7 @@ for resource in available_resources:
         if 'page_blocks' in D:
                 text = [ d['text'] for d in D['page_blocks'] ]
                 D['Text'] = ' | '.join(filter(None, text))
-        for k, v in D.items():
+        for k, v in D.items.copy():
             D[k] = unicodify(v)
             if D[k] and type(v) is dict:
                 for key, value in v.items():

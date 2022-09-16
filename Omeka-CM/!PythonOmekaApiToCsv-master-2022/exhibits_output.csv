@@ -1,0 +1,9 @@
+id,added,credits,description,featured,modified,owner_id,pages_count,public,slug,title,url
+2,2020-08-24T18:37:42+00:00,BMZ,"<h2>This is an exhibit made as a test</h2>
+<div class=""element"">
+<div class=""element-text"">Random Object </div>
+<div class=""element-text""></div>
+<div class=""element-text"">We can customize a theme for each exhibit.</div>
+</div>",False,2022-09-15T21:29:59+00:00,35,3,False,smoking,Smoking Around the World (Postcards),http://cannabismuseum.com/omeka/api/exhibits/2
+6,2020-11-02T07:09:41+00:00,,,False,2020-11-02T07:09:41+00:00,6,0,False,botanical-prints, Botanical Prints,http://cannabismuseum.com/omeka/api/exhibits/6
+7,2020-11-02T07:11:23+00:00,CM,,False,2020-11-02T07:11:23+00:00,6,0,False,nov-2020-collection-of-high-qu, Botanical Prints,http://cannabismuseum.com/omeka/api/exhibits/7

@@ -1,0 +1,4 @@
+id,Text,exhibit_id,order,slug,title,url
+1,<p>All these are tests </p>,2,0,page-1-from-exhibit,Page 1 from exhibit,http://cannabismuseum.com/omeka/api/exhibit_pages/1
+2,<p>Think of each page is like a full interactive website exhibition</p>,2,1,page-2,Page 2,http://cannabismuseum.com/omeka/api/exhibit_pages/2
+3,,2,2,3,3,http://cannabismuseum.com/omeka/api/exhibit_pages/3

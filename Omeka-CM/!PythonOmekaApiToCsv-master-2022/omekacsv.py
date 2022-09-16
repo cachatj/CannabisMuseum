@@ -18,15 +18,16 @@ try:
     from urllib.parse import urlencode
     from urllib.request import urlopen
     from urllib.error import URLError, HTTPError
-    from urllib.parse import urlparse
 except ImportError:
     from urllib import urlencode
     from urllib2 import urlopen, URLError, HTTPError
 
-
 '''
-#Cannabis Museum API Endpoint = https://www.cannabismuseum.com/omeka/api
-#JC API KEY - Sept 2022 = a67853bc6cad9fc127d3c872d6c1e706d3b5d7d3
+Extract top-level metadata and element_texts from items returned by
+Omeka 2.x API request, and then write to a CSV file. Intended for
+requests to items, collections, element sets, elements, files, tags, exhibits, and exhibit pages.
+
+Based on Caleb McDaniel's original Python CSV file generator: https://github.com/wcaleb/omekadd
 '''
 
 try:
@@ -85,13 +86,13 @@ def get_all_pages(endpoint, resource):
         time.sleep(1)
     return data
 
-endpoint = 'https://www.cannabismuseum.com/omeka/api'
+endpoint = ''
 while not endpoint:
     endpoint = input('Enter your Omeka API endpoint\n')
 endpoint = endpoint.strip().rstrip('/');
 apikey = input('\nIf you are using an API key, please enter it now. Otherwise press Enter.\n')
 if not apikey:
-    apikey = 'a67853bc6cad9fc127d3c872d6c1e706d3b5d7d3'
+    apikey = None
 multivalue_separator = input('\nEnter a character to separate mutiple values within a single cell.\nThis character must not be used anywhere in your actual data.\nLeave blank to use the default separator: |\n')
 if not multivalue_separator:
     multivalue_separator = '|'
