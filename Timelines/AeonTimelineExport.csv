@@ -1,0 +1,5 @@
+"EventID","Title","Start Date","Duration","End Date","Parent","Color","Tags","Links","AuthorProperty","NotesProperty","CMOmekaLink","Complete","Source","Location","Author"
+"4","1969 Book","01 January 1969 12:00:00AM","0 seconds","01 January 1969 12:00:00AM","","Red","1969Tag","","1969 Author","1969 Notes Text",,,"","","1969Author"
+"2","1950 Book","01 January 1950 12:00:00AM","0 seconds","01 January 1950 12:00:00AM","","Red","CannabisTag|LSDTag","file://www.jcachat.com","Author Property","EventSummaryDetails","OMEKAlink",,"","","1950Author Name"
+"1","1937 Book","01 January 1937 12:00:00AM","0 seconds","01 January 1937 12:00:00AM","","Red","1937Tag","http://www.jcachat.com","Jonathan Cachat","1937 Text Notes","http://cannabismuseum.com/omeka/items/show/10114",,"","","1937Author Name"
+"3","1950 Book","01 January 1950 12:00:00AM","0 seconds","01 January 1950 12:00:00AM","","Red","CannabisTag|LSDTag","file://www.jcachat.com","Author Property","EventSummaryDetails","OMEKAlink",,"","","1950Author Name"

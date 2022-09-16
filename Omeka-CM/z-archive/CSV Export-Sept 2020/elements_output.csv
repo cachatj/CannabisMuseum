@@ -1,0 +1,155 @@
+comment,description,element_set_id,element_set_resource,element_set_url,id,name,order,url
+,Any textual data included in the document,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,1,Text,,http://cannabismuseum.com/omeka/api/elements/1
+,The Physical Location of the Item,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,4,Location,,http://cannabismuseum.com/omeka/api/elements/4
+,Any written text transcribed from a sound,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,5,Transcription,,http://cannabismuseum.com/omeka/api/elements/5
+,The URL of the local directory containing all assets of the website,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,6,Local URL,,http://cannabismuseum.com/omeka/api/elements/6
+,"The type of object, such as painting, sculpture, paper, photo, and additional data",3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,7,Original Format,,http://cannabismuseum.com/omeka/api/elements/7
+,The actual physical size of the original image,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,10,Physical Dimensions,,http://cannabismuseum.com/omeka/api/elements/10
+,"Length of time involved (seconds, minutes, hours, days, class periods, etc.)",3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,11,Duration,,http://cannabismuseum.com/omeka/api/elements/11
+,Type/rate of compression for moving image file (i.e. MPEG-4),3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,12,Compression,,http://cannabismuseum.com/omeka/api/elements/12
+,Name (or names) of the person who produced the video,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,13,Producer,,http://cannabismuseum.com/omeka/api/elements/13
+,Name (or names) of the person who produced the video,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,14,Director,,http://cannabismuseum.com/omeka/api/elements/14
+,A summary of an interview given for different time stamps throughout the interview,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,16,Time Summary,,http://cannabismuseum.com/omeka/api/elements/16
+,The name(s) and email address(es) of the person to whom the email was blind carbon copied,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,22,BCC,,http://cannabismuseum.com/omeka/api/elements/22
+,,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,24,Standards,,http://cannabismuseum.com/omeka/api/elements/24
+,,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,26,Materials,,http://cannabismuseum.com/omeka/api/elements/26
+,,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,28,URL,,http://cannabismuseum.com/omeka/api/elements/28
+,,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,29,Event Type,,http://cannabismuseum.com/omeka/api/elements/29
+,Names of individuals or groups participating in the event,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,30,Participants,,http://cannabismuseum.com/omeka/api/elements/30
+,Format: MM/DD/YYYY,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,31,Birth Date,,http://cannabismuseum.com/omeka/api/elements/31
+,,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,32,Birthplace,,http://cannabismuseum.com/omeka/api/elements/32
+,Format: MM/DD/YYYY,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,33,Death Date,,http://cannabismuseum.com/omeka/api/elements/33
+,,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,34,Occupation,,http://cannabismuseum.com/omeka/api/elements/34
+,,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,35,Biographical Text,,http://cannabismuseum.com/omeka/api/elements/35
+,,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,36,Bibliography,,http://cannabismuseum.com/omeka/api/elements/36
+,An entity responsible for making contributions to the resource,1,element_sets,http://cannabismuseum.com/omeka/api/element_sets/1,37,Contributor,4,http://cannabismuseum.com/omeka/api/elements/37
+,"The spatial or temporal topic of the resource, the spatial applicability of the resource, or the jurisdiction under which the resource is relevant",1,element_sets,http://cannabismuseum.com/omeka/api/element_sets/1,38,Coverage,15,http://cannabismuseum.com/omeka/api/elements/38
+Author for Books & Manuscripts. Manufacturer for items such as Containers. Artist for works of Art.,An entity primarily responsible for making the resource,1,element_sets,http://cannabismuseum.com/omeka/api/element_sets/1,39,Creator,2,http://cannabismuseum.com/omeka/api/elements/39
+"Std Format is MM/DD/YYYY
+Can also be Month, YYYY 
+Trying to keep YYYY as the last 4 characters for easy searchability.",A point or period of time associated with an event in the lifecycle of the resource,1,element_sets,http://cannabismuseum.com/omeka/api/element_sets/1,40,Date,6,http://cannabismuseum.com/omeka/api/elements/40
+,An account of the resource,1,element_sets,http://cannabismuseum.com/omeka/api/element_sets/1,41,Description,3,http://cannabismuseum.com/omeka/api/elements/41
+"Book format: Hardback, Paperback, etc. Also can choose from Glass, Metal, Paper, Cardboard, etc.","The file format, physical medium, or dimensions of the resource",1,element_sets,http://cannabismuseum.com/omeka/api/element_sets/1,42,Format,8,http://cannabismuseum.com/omeka/api/elements/42
+"For Books, this is ISBN.",An unambiguous reference to the resource within a given context,1,element_sets,http://cannabismuseum.com/omeka/api/element_sets/1,43,Identifier,11,http://cannabismuseum.com/omeka/api/elements/43
+,A language of the resource,1,element_sets,http://cannabismuseum.com/omeka/api/element_sets/1,44,Language,7,http://cannabismuseum.com/omeka/api/elements/44
+,An entity responsible for making the resource available,1,element_sets,http://cannabismuseum.com/omeka/api/element_sets/1,45,Publisher,10,http://cannabismuseum.com/omeka/api/elements/45
+Links to other related resources such as document details,A related resource,1,element_sets,http://cannabismuseum.com/omeka/api/element_sets/1,46,Relation,5,http://cannabismuseum.com/omeka/api/elements/46
+,Information about rights held in and over the resource,1,element_sets,http://cannabismuseum.com/omeka/api/element_sets/1,47,Rights,13,http://cannabismuseum.com/omeka/api/elements/47
+,A related resource from which the described resource is derived,1,element_sets,http://cannabismuseum.com/omeka/api/element_sets/1,48,Source,12,http://cannabismuseum.com/omeka/api/elements/48
+,The topic of the resource,1,element_sets,http://cannabismuseum.com/omeka/api/element_sets/1,49,Subject,9,http://cannabismuseum.com/omeka/api/elements/49
+A reasonable name for the item.,A name given to the resource,1,element_sets,http://cannabismuseum.com/omeka/api/element_sets/1,50,Title,1,http://cannabismuseum.com/omeka/api/elements/50
+,The nature or genre of the resource,1,element_sets,http://cannabismuseum.com/omeka/api/element_sets/1,51,Type,14,http://cannabismuseum.com/omeka/api/elements/51
+,"Substance of which the container is comprised, e.g.: glass, cardboard, etc.",3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,52,Structure,,http://cannabismuseum.com/omeka/api/elements/52
+,,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,53,Container Color,,http://cannabismuseum.com/omeka/api/elements/53
+,ID# from Access DB,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,54,Old Database ID,,http://cannabismuseum.com/omeka/api/elements/54
+,,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,55,Checked Inventory,,http://cannabismuseum.com/omeka/api/elements/55
+,Old field from Access DB,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,56,Sample,,http://cannabismuseum.com/omeka/api/elements/56
+,OLD Physical location of the object,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,57,Physical Location,,http://cannabismuseum.com/omeka/api/elements/57
+,,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,58,Material ID,,http://cannabismuseum.com/omeka/api/elements/58
+,ID Number of the glass color.,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,59,ColorID,,http://cannabismuseum.com/omeka/api/elements/59
+,Container Label,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,60,Label,,http://cannabismuseum.com/omeka/api/elements/60
+,Old Bottle description field from Access DB,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,61,Lid Type,,http://cannabismuseum.com/omeka/api/elements/61
+,"An ""Extra"" Description field of the item. If this field is populated then it needs copied to the Dublin Core Description field for later eradication of this field",3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,62,Description,,http://cannabismuseum.com/omeka/api/elements/62
+,Old Bottle description field from Access DB,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,63,Writing On Container,,http://cannabismuseum.com/omeka/api/elements/63
+,,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,64,Bottle Description,,http://cannabismuseum.com/omeka/api/elements/64
+,Entity responsible for making the item,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,65,Manufacturer,,http://cannabismuseum.com/omeka/api/elements/65
+,Old Bottle description field from Access DB,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,66,SPPECD,,http://cannabismuseum.com/omeka/api/elements/66
+,,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,67,Seal and Contents,,http://cannabismuseum.com/omeka/api/elements/67
+,,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,68,Notes,,http://cannabismuseum.com/omeka/api/elements/68
+,Physical Dimensions of the Object,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,69,Dimensions,,http://cannabismuseum.com/omeka/api/elements/69
+,,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,70,Category,,http://cannabismuseum.com/omeka/api/elements/70
+,Note on bottle that matches,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,71,Matches Other Bottles,,http://cannabismuseum.com/omeka/api/elements/71
+,,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,72,Container Set,,http://cannabismuseum.com/omeka/api/elements/72
+,,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,73,Includes Packaging,,http://cannabismuseum.com/omeka/api/elements/73
+,,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,74,Wax Paper Wrapping,,http://cannabismuseum.com/omeka/api/elements/74
+,Container has Red Label,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,75,Red Label,,http://cannabismuseum.com/omeka/api/elements/75
+,Container has contents,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,76,With Contents,,http://cannabismuseum.com/omeka/api/elements/76
+,,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,77,Era,,http://cannabismuseum.com/omeka/api/elements/77
+,,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,78,Potentially Re-labeled,,http://cannabismuseum.com/omeka/api/elements/78
+,"Is a Corn Cure, T/F?",3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,79,Corn Cure,,http://cannabismuseum.com/omeka/api/elements/79
+,,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,80,Fake,,http://cannabismuseum.com/omeka/api/elements/80
+,,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,81,Web Link,,http://cannabismuseum.com/omeka/api/elements/81
+,True/False,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,82,Container Set-TF,,http://cannabismuseum.com/omeka/api/elements/82
+,Notes on last inventory schedule & results. Also notes on last time item touched,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,83,Inventory,,http://cannabismuseum.com/omeka/api/elements/83
+,Dewey Decimal System Number,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,84,Dewey,,http://cannabismuseum.com/omeka/api/elements/84
+,Library of Congress Classification number,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,85,LC Classification,,http://cannabismuseum.com/omeka/api/elements/85
+,,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,87,Series,,http://cannabismuseum.com/omeka/api/elements/87
+,,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,88,Sub Title,,http://cannabismuseum.com/omeka/api/elements/88
+,,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,89,Country,,http://cannabismuseum.com/omeka/api/elements/89
+,,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,90,Issue,,http://cannabismuseum.com/omeka/api/elements/90
+,,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,91,Pages,,http://cannabismuseum.com/omeka/api/elements/91
+,,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,92,Edition,,http://cannabismuseum.com/omeka/api/elements/92
+,Book/Publication Volume,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,94,Volume,,http://cannabismuseum.com/omeka/api/elements/94
+,,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,95,Genre,,http://cannabismuseum.com/omeka/api/elements/95
+,,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,96,Subject,,http://cannabismuseum.com/omeka/api/elements/96
+,,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,98,Condition,,http://cannabismuseum.com/omeka/api/elements/98
+,,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,99,Current Value,,http://cannabismuseum.com/omeka/api/elements/99
+,Format: MM/DD/YYYY,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,100,Modified Date,,http://cannabismuseum.com/omeka/api/elements/100
+,Format: MM/DD/YYYY,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,101,Purchase Date,,http://cannabismuseum.com/omeka/api/elements/101
+,Price of individual item within an order,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,102,Item Unit Purchase Price,,http://cannabismuseum.com/omeka/api/elements/102
+,Drop-down list of stores. Please ask Administrator to Add new stores.,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,103,Purchase Store,,http://cannabismuseum.com/omeka/api/elements/103
+,,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,104,Quantity,,http://cannabismuseum.com/omeka/api/elements/104
+,,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,106,Photo Notes,,http://cannabismuseum.com/omeka/api/elements/106
+,"Container Color & Associated ID from drop-down list
+1 - White
+2 - Amber
+3 - Brown
+7 - Green
+11 - Blue
+12 - Yellow Amber
+15 - Purple
+17 - Clear
+19 - Pink",3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,107,Container Color/ID,,http://cannabismuseum.com/omeka/api/elements/107
+,Links to additional info collected,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,108,Additional Information,,http://cannabismuseum.com/omeka/api/elements/108
+,Order ID from Ebay purchase confirmation email,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,109,Ebay Order ID,,http://cannabismuseum.com/omeka/api/elements/109
+,eBay Identification of Seller Account,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,110,Ebay Seller,,http://cannabismuseum.com/omeka/api/elements/110
+,"Date object arrived to Museum
+Format: MM/DD/YYYY",3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,111,Delivery Date,,http://cannabismuseum.com/omeka/api/elements/111
+,Link to the eBay Thumbnail from the web,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,112,Ebay Thumbnail,,http://cannabismuseum.com/omeka/api/elements/112
+,Original eBay listing Title,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,115,Ebay Listing Title,,http://cannabismuseum.com/omeka/api/elements/115
+,,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,116,Ebay Seller Notes,,http://cannabismuseum.com/omeka/api/elements/116
+,Price listed on front cover of Comic Book,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,117,Comic Price,,http://cannabismuseum.com/omeka/api/elements/117
+,Doctor who wrote medical prescription,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,118,Rx Physician,,http://cannabismuseum.com/omeka/api/elements/118
+,Specific medicine listed on prescription,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,119,Rx Medicine,,http://cannabismuseum.com/omeka/api/elements/119
+,Format: MM/DD/YYYY,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,120,Rx Date,,http://cannabismuseum.com/omeka/api/elements/120
+,ID number listed on prescription,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,121,Rx Number,,http://cannabismuseum.com/omeka/api/elements/121
+,Street/City/State listed on prescription,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,122,Rx Originating Address,,http://cannabismuseum.com/omeka/api/elements/122
+,Person item was purchased from,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,123,Purchased From,,http://cannabismuseum.com/omeka/api/elements/123
+,Shoe Size in US measurement,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,124,US Shoe Size,,http://cannabismuseum.com/omeka/api/elements/124
+,"Tote, Garment, Hat Box, etc.",3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,125,Luggage Style,,http://cannabismuseum.com/omeka/api/elements/125
+,From Joe's notes in Sheets. Pages where Cannabis is referenced with the book/work.,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,126,Relevant Pages,,http://cannabismuseum.com/omeka/api/elements/126
+,From Joe's notes in Sheets: Specific passage from the noted Relevant Page,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,127,RevPgNote1,,http://cannabismuseum.com/omeka/api/elements/127
+,From Joe's notes in Sheets: Specific passage from the noted Relevant Page,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,128,RevPgNote2,,http://cannabismuseum.com/omeka/api/elements/128
+,HTTP path of photos,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,129,BC Photo Path,,http://cannabismuseum.com/omeka/api/elements/129
+,,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,130,BC Box,,http://cannabismuseum.com/omeka/api/elements/130
+,Details of condition,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,131,Condition Notes,,http://cannabismuseum.com/omeka/api/elements/131
+,Location established by Liz & Steve to use only as Drop-Down menu with Simple Vocab Plug-in,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,132,New Location,,http://cannabismuseum.com/omeka/api/elements/132
+,"Denotes the source of the collection, e.g.: Wirthshafter, Horowitz, Goldberry",3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,133,Collection Source,,http://cannabismuseum.com/omeka/api/elements/133
+,Name of Library with which the book is associated,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,134,Library Name,,http://cannabismuseum.com/omeka/api/elements/134
+,"Typically Paper, but also Velvet, Linen, etc.",3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,136,Poster Format,,http://cannabismuseum.com/omeka/api/elements/136
+,Typically a Drawer of Green Metal or the Wooden Cabinet,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,137,Small Container Location,,http://cannabismuseum.com/omeka/api/elements/137
+,,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,138,Article Format,,http://cannabismuseum.com/omeka/api/elements/138
+,Typically a storage location.,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,139,Archive Location,,http://cannabismuseum.com/omeka/api/elements/139
+,Box numbers for Archive/Storage location,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,140,Archive Box Location,,http://cannabismuseum.com/omeka/api/elements/140
+,,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,141,Letter Originator,,http://cannabismuseum.com/omeka/api/elements/141
+,,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,142,Letter Origin Address,,http://cannabismuseum.com/omeka/api/elements/142
+,,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,143,Letter Salutation,,http://cannabismuseum.com/omeka/api/elements/143
+,,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,144,Letter Recipient,,http://cannabismuseum.com/omeka/api/elements/144
+,,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,145,Letter Receipt Address,,http://cannabismuseum.com/omeka/api/elements/145
+,,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,146,Dimension-Units,,http://cannabismuseum.com/omeka/api/elements/146
+,,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,149,Dimension-Height,,http://cannabismuseum.com/omeka/api/elements/149
+,,5,element_sets,http://cannabismuseum.com/omeka/api/element_sets/5,150,User First Name,2,http://cannabismuseum.com/omeka/api/elements/150
+,,5,element_sets,http://cannabismuseum.com/omeka/api/element_sets/5,151,User Last Name,3,http://cannabismuseum.com/omeka/api/elements/151
+,,5,element_sets,http://cannabismuseum.com/omeka/api/element_sets/5,152,User_Email_01,4,http://cannabismuseum.com/omeka/api/elements/152
+,Total price of item including Tax & Shipping/Handling for entire order.,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,153,Order Purchase Price,,http://cannabismuseum.com/omeka/api/elements/153
+,,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,154,Shipping Cost,,http://cannabismuseum.com/omeka/api/elements/154
+,,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,155,Edition Notes,,http://cannabismuseum.com/omeka/api/elements/155
+,,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,156,Political Issue,,http://cannabismuseum.com/omeka/api/elements/156
+,,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,157,Municipality,,http://cannabismuseum.com/omeka/api/elements/157
+,,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,158,Sign Date,,http://cannabismuseum.com/omeka/api/elements/158
+,Product being advertised & sold by the business,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,159,Product,,http://cannabismuseum.com/omeka/api/elements/159
+,Physical location of original store front,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,160,Business Location,,http://cannabismuseum.com/omeka/api/elements/160
+,,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,161,Certificate Originator,,http://cannabismuseum.com/omeka/api/elements/161
+,,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,162,Certificate Origin Address,,http://cannabismuseum.com/omeka/api/elements/162
+,,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,163,Certificate Recipient,,http://cannabismuseum.com/omeka/api/elements/163
+,,3,element_sets,http://cannabismuseum.com/omeka/api/element_sets/3,164,Certificate Date,,http://cannabismuseum.com/omeka/api/elements/164

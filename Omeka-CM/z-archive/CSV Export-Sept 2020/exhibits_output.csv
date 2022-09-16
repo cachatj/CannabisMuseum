@@ -1,0 +1,7 @@
+added,credits,description,featured,id,modified,owner_id,owner_resource,owner_url,pages_count,pages_resource,pages_url,public,slug,title,url
+2020-08-25T06:37:42+00:00,BMZ,"<h2>This is an exhibit made as a test</h2>
+<div class=""element"">
+<div class=""element-text"">Random Object </div>
+<div class=""element-text""></div>
+<div class=""element-text"">We can customize a theme for each exhibit.</div>
+</div>",False,2,2020-08-25T17:50:27+00:00,35,users,http://cannabismuseum.com/omeka/api/users/35,3,exhibit_pages,http://cannabismuseum.com/omeka/api/exhibit_pages?exhibit=2,False,smoking,Smoking Around the World (Postcards),http://cannabismuseum.com/omeka/api/exhibits/2

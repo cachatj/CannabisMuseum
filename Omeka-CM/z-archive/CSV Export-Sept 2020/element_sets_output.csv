@@ -1,0 +1,4 @@
+description,elements_count,elements_resource,elements_url,id,name,record_type,url
+"The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.",15,elements,http://cannabismuseum.com/omeka/api/elements?element_set=1,1,Dublin Core,,http://cannabismuseum.com/omeka/api/element_sets/1
+"The item type metadata element set, consisting of all item type elements bundled with Omeka and all item type elements created by an administrator.",124,elements,http://cannabismuseum.com/omeka/api/elements?element_set=3,3,Item Type Metadata,Item,http://cannabismuseum.com/omeka/api/element_sets/3
+Elements for TEST USER PROFILE,3,elements,http://cannabismuseum.com/omeka/api/elements?element_set=5,5,TEST USER PROFILE Elements,UserProfilesType,http://cannabismuseum.com/omeka/api/element_sets/5
